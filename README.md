@@ -12,5 +12,5 @@ A semantic-search campus assistant chatbot built using Python and SentenceTransf
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/student-cap-chatbot.git](https://github.com/YOUR_USERNAME/student-cap-chatbot.git)
+   git clone [https://github.com/ThakurRishikeshsingh/student-cap-chatbot.git](https://github.com/YOUR_USERNAME/student-cap-chatbot.git)
    cd student-cap-chatbot
